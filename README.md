@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://www.instagram/mskalandunas/" target="_blank" rel="noopener noreferrer">
-    <img src="./media/instagram.svg">
+    <img src="./media/instagram.svg" height="20" width="20">
   </a>
   <a href="https://www.linkedin.com/in/mskalandunas/" target="_blank" rel="noopener noreferrer">
-    <img src="./media/linkedin.svg">
+    <img src="./media/linkedin.svg" height="20" width="20">
   </a>
   <a href="https://medium.com/@mskalandunas" target="_blank" rel="noopener noreferrer">
-    <img src="./media/medium.svg">
+    <img src="./media/medium.svg" height="20" width="20">
   </a>
 </p>
 
