@@ -10,6 +10,12 @@
   <a>
     <img src="./media/instagram.svg">
   </a>
+  <a>
+    <img src="./media/linkedin.svg">
+  </a>
+  <a>
+    <img src="./media/medium.svg">
+  </a>
 </p>
 
 My name is Mike Skalandunas and I'm currently a Staff Software Engineer at [Hearsay Systems](https://www.hearsaysystems.com/). It's my responsibility to exemplify performant, maintainable, and scalable architectures and implementations in Hearsay's many codebases.  I do my best to ensure our users experience elegance with as close to zero friction as possible.
