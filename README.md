@@ -27,3 +27,7 @@ Sometimes I also make music.  You can see my composition site [here](https://mos
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mskalandunas&theme=radical&hide_border=true&background=0d1117">
 </p>
+
+<p align="center">
+  ༶ ༶ ↟ ↟ ↟ ༶ ༶
+</p>
