@@ -20,7 +20,7 @@
   </a>
 </p>
 
-My name is Mike Skalandunas and I'm currently a Staff Software Engineer at [Hearsay Systems](https://www.hearsaysystems.com/). It's my responsibility to exemplify performant, maintainable, and scalable architectures and implementations in Hearsay's many codebases.  I do my best to ensure our users experience elegance with as close to zero friction as possible.  Despite my UI focus, I have extensive experience across the full stack.
+My name is Mike Skalandunas and I'm currently a Staff Software Engineer at [Hearsay Systems](https://www.hearsaysystems.com/). It's my responsibility to exemplify performant, maintainable, and scalable architectures and implementations in Hearsay's many codebases.  I do my best to ensure our users experience elegance with as close to zero friction as possible.  In addition to my UI focus, I have extensive experience across the full stack.
 
 Sometimes I also make music.  You can see my composition site [here](https://mosaicmusic.io/).
 
