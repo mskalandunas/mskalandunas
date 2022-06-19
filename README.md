@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram/mskalandunas/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/mskalandunas/" target="_blank" rel="noopener noreferrer">
     <img src="./media/instagram.svg" height="24" width="24">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
