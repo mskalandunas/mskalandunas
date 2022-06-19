@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a>
+  <a href="https://www.instagram/mskalandunas/" target="_blank" rel="noopener noreferrer">
     <img src="./media/instagram.svg">
   </a>
-  <a>
+  <a href="https://www.linkedin.com/in/mskalandunas/" target="_blank" rel="noopener noreferrer">
     <img src="./media/linkedin.svg">
   </a>
-  <a>
+  <a href="https://medium.com/@mskalandunas" target="_blank" rel="noopener noreferrer">
     <img src="./media/medium.svg">
   </a>
 </p>
