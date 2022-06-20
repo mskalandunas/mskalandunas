@@ -1,5 +1,5 @@
 <p align="center">
-  ༶ ༶ ↟ ↟ ↟ ༶ ༶
+  ༶ ༶ ↟ 🎹 + 🧑‍💻 ↟ ༶ ༶
 </p>
 
 <p align="center">
@@ -29,5 +29,5 @@ Sometimes I also make music.  You can see my composition site [here](https://mos
 </p>
 
 <p align="center">
-  ༶ ↟ ༶
+  ༶ ༶ ↟ ↟ ↟ ༶ ༶
 </p>
