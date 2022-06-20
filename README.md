@@ -24,8 +24,12 @@ My name is Mike Skalandunas and I'm currently a Staff Software Engineer at [Hear
 
 Sometimes I also make music.  You can see my composition site [here](https://mosaicmusic.io/).
 
-<img src="https://img.shields.io/badge/Currently Reading:-%23FFFFFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Currently Reading:-%234BF702?style=for-the-badge">
 
+<a href="https://www.oreilly.com/library/view/software-architecture-the/9781492086888/">
+<img src="https://learning.oreilly.com/library/cover/9781492086888/250w/">
+</a>
+  
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mskalandunas&theme=radical&hide_border=true&background=0d1117">
 </p>
