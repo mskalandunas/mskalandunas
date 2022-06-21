@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  ༶
-</p>
-
-<p align="center">
   <a href="https://www.instagram.com/mskalandunas/" target="_blank" rel="noopener noreferrer">
     <img src="./media/instagram.svg" height="20" width="20">
   </a>
