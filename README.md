@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  ༶
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/mskalandunas/" target="_blank" rel="noopener noreferrer">
     <img src="./media/instagram.svg" height="20" width="20">
   </a>
@@ -18,6 +22,10 @@
   <a href="https://medium.com/@mskalandunas" target="_blank" rel="noopener noreferrer">
     <img src="./media/medium.svg" height="20" width="20">
   </a>
+</p>
+
+<p align="center">
+  ༶
 </p>
 
 My name is Mike Skalandunas and I'm currently a Staff Software Engineer at [Hearsay Systems](https://www.hearsaysystems.com/). It's my responsibility to exemplify performant, maintainable, and scalable architectures and implementations in Hearsay's many codebases.  I do my best to ensure our users experience elegance with as close to zero friction as possible.  In addition to my UI focus, I have extensive experience across the full stack.
