@@ -40,13 +40,9 @@ Sometimes I also make music.  You can see my composition site [here](https://mos
 
 <img src="https://img.shields.io/badge/Good Reads:-%23BC2077?style=for-the-badge">
 
-<a href="https://www.manning.com/books/micro-frontends-in-action">
-  <img src="https://images.manning.com/264/352/resize/book/6/9351297-b370-44ad-ab3e-8dd49938c05b/Geers-MF-HI.png">
-</a> <a href="https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/">
-  <img src="https://learning.oreilly.com/library/cover/9781492043447/250w/">
-</a> <a href="https://staffeng.com/book">
-  <img src="https://m.media-amazon.com/images/I/41RJt+xmh4L.jpg">
-</a>
+[Micro Frontends in Action by Michael Geers](https://www.manning.com/books/micro-frontends-in-action)
+[Fundamentals of Software Architecture by Mark Richards and Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+[Staff Engineer: Leadership Beyond the Management Track by Will Larson](https://staffeng.com/book)
 
 <p align="center">
   ༶
