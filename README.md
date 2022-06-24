@@ -45,7 +45,7 @@ Sometimes I also make music.  You can see my composition site [here](https://mos
 </a> <a href="https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/">
   <img src="https://learning.oreilly.com/library/cover/9781492043447/250w/">
 </a> <a href="https://staffeng.com/book">
-  <img src="https://staffeng.com/StaffEngCoverHero.png">
+  <img src="https://m.media-amazon.com/images/I/41RJt+xmh4L.jpg">
 </a>
 
 <p align="center">
