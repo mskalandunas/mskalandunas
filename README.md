@@ -38,7 +38,7 @@ Sometimes I also make music.  You can see my composition site [here](https://mos
   <img src="https://learning.oreilly.com/library/cover/9781492086888/250w/">
 </a>
 
-
+<p>&nbsp;</p>
 
 <img src="https://img.shields.io/badge/Good Reads:-%23BC2077?style=for-the-badge">
 
