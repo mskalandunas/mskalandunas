@@ -38,6 +38,24 @@ Sometimes I also make music.  You can see my composition site [here](https://mos
   <img src="https://learning.oreilly.com/library/cover/9781492086888/250w/">
 </a>
 
+<img src="https://img.shields.io/badge/Good Reads:-%23BC2077?style=for-the-badge">
+
+<a href="https://www.oreilly.com/library/view/software-architecture-the/9781492086888/">
+  <img src="https://learning.oreilly.com/library/cover/9781492086888/250w/">
+</a>
+
+<a href="https://www.oreilly.com/library/view/software-architecture-the/9781492086888/">
+  <img src="https://learning.oreilly.com/library/cover/9781492086888/250w/">
+</a>
+
+<a href="https://www.oreilly.com/library/view/software-architecture-the/9781492086888/">
+  <img src="https://learning.oreilly.com/library/cover/9781492086888/250w/">
+</a>
+
+<a href="https://www.oreilly.com/library/view/software-architecture-the/9781492086888/">
+  <img src="https://learning.oreilly.com/library/cover/9781492086888/250w/">
+</a>
+
 <p align="center">
   ༶
 </p>
