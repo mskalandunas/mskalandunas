@@ -41,8 +41,13 @@ Sometimes I also make music.  You can see my composition site [here](https://mos
 <img src="https://img.shields.io/badge/Good Reads:-%23BC2077?style=for-the-badge">
 
 [Micro Frontends in Action by Michael Geers](https://www.manning.com/books/micro-frontends-in-action)
+
+
 [Fundamentals of Software Architecture by Mark Richards and Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+
+
 [Staff Engineer: Leadership Beyond the Management Track by Will Larson](https://staffeng.com/book)
+
 
 <p align="center">
   ༶
